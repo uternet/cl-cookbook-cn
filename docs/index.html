@@ -7,25 +7,41 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  
+  <!-- Theme: Simple (latest v0.x.x) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'The Common Lisp Cookbook',
-      repo: 'oneforalone/cl-cookbook-cn',
-      homepage: 'zh-cn/index.md',
-      //loadSidebar: '',
-      nameLink: {
-          '/': 'https://oneforalone.github.io/cl-cookbook-cn/#/zh-cn/index.md',
-	  '/zh-cn/': 'https://oneforalone.github.io/cl-cookbook-cn/#/zh-cn/index.md',
-      },
+      // Genaral
+      name         : 'The Common Lisp Cookbook',
+      repo         : 'oneforalone/cl-cookbook-cn',
+      homepage     : 'zh-cn/index.md',
 
-      auto2top: true,
-	MaxLevel: 3,
-      subMaxLevel: 3,
+      // Sidebar
+	    MaxLevel     : 4,
+      subMaxLevel  : 2,
+      auto2top     : true,
+      autoHeader   : true,
+      loadSidebar  : true,
+
+      mergeNavbar  : true,
+
+      executeScript: true,
+
+      themeable: {
+        readyTransition : true,
+        responsiveTables: true,
+      }
     };
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <!-- docsify-themeable (latest v0.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+
 </body>
 </html>
