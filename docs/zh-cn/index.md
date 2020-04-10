@@ -12,7 +12,7 @@
 
 #### [05. 迭代](zh-cn/05.iteration.md)
 
-#### [06. 数组](zh-cn/06.array.md)
+#### [06. 数组](zh-cn/06.arrays.md)
 
 #### [07. 日期时间](zh-cn/07.dates-times.md)
 
