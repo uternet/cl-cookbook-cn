@@ -13,9 +13,16 @@
   <script>
     window.$docsify = {
       homepage: 'zh-cn/index.md',
-      name: '',
-      repo: ''
-    }
+      nameLink: {
+	'/zh-cn/': '/#/zh-cn/index.md',
+        '/': '/#/zh-cn/index.md',
+      },
+      name: '<span>The Common Lisp Cookbook</span>',
+      repo: 'oneforalone/cl-cookbook-cn',
+      relativePath: false,
+      auto2top: true,
+      subMaxLevel: 2,
+    };
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
