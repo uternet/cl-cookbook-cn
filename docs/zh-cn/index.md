@@ -1,5 +1,20 @@
 # The Common Lisp Cookbook
 
+---
+
+本文是 [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)中文翻译。注，不是完全翻译，部分是参照英文文档，有删改。有好的建议的话，可以[联系我](mailto:yuqi.lyle@outlook.com)。
+
+---
+
+# License
+
+在发布和使用 The Common Lisp Cookbook 时，必须在文件声明该文档版权来源：
+
+Copyright: 中文翻译 2020-2021 Yuqi Liu 2015-2017 LispCookbook Github Group 2002-2007 The Common Lisp Cookbook Project
+
+**注**：本文档由 Common Lisp Cookbook 项目组提供，Yuqi Liu 进行翻译。其中任何明示或暗示的保证，包括但不限于对适销性和对特定用途的适用性的暗示保证都是不允许的。在任何情况下，Common Lisp Cookbook项目组及译者 Yuqi Liu 都不对任何直接、间接、附带、特殊、示范或后续的损害负责(包括但不限于采购替代商品或服务，使用、数据或利润的损失(或业务中断))，在告知相关的损害后，任何合同、严格责任、或侵权(包括过失或其他方面)的任何责任理论的基础上，因使用本文档而引起的任意的侵权(包括过失或其他)事件，Lisp Cookbook 项目组和译者 Yuqi Liu不负相关责任。
+
+
 ## [00. 开始](zh-cn/00.getting-started.md)
 ## [01. 函数](zh-cn/01.functions.md)
 ## [02. 数据结构](zh-cn/02.data-structures.md)
@@ -33,3 +48,9 @@
 ## [30. websockets 库](zh-cn/30.websockets.md)
 ## [31. CL21](zh-cn/31.cl21.md)
 ## [32. 其他](zh-cn/32.misc.md)
+
+---
+Copyright:
+2020-2021 Yuqi Liu
+2015-2017 LispCookbook Github Group
+2002-2007 The Common Lisp Cookbook Project
