@@ -1,3 +1,4 @@
+- [LICENSE](zh-cn/license.md)
 - [00. 开始](zh-cn/00.getting-started.md)
 - [01. 函数](zh-cn/01.functions.md)
 - [02. 数据结构](zh-cn/02.data-structures.md)
