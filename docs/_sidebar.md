@@ -22,7 +22,7 @@
 - [20. 线程](zh-cn/20.process.md)
 - [21. 创建项目](zh-cn/21.systems.md)
 - [22. 调用 Win32 API](zh-cn/22.win32.md)
-- [23. Debugging](zh-cn/23.debugging.md)
+- [23. 调试](zh-cn/23.debugging.md)
 - [24. 性能优化](zh-cn/24.performance.md)
 - [25. 运行脚本](zh-cn/25.scripting.md)
 - [26. 测试](zh-cn/26.testing.md)
