@@ -40,7 +40,7 @@ Copyright: 中文翻译 2020-2021 Yuqi Liu 2015-2017 LispCookbook Github Group 2
 ## [22. 调用 Win32 API](zh-cn/22.win32.md)
 ## [23. 调试](zh-cn/23.debugging.md)
 ## [24. 性能优化](zh-cn/24.performance.md)
-## [25. 运行脚本](zh-cn/25.scripting.md)
+## [25. 编译](zh-cn/25.scripting.md)
 ## [26. 测试](zh-cn/26.testing.md)
 ## [27. 访问数据库](zh-cn/27.databases.md)
 ## [28. Web 开发](zh-cn/28.web.md)
