@@ -9,5 +9,7 @@ A Chinese Version of [The Common Lisp Cookbook](https://lispcookbook.github.io/c
 Needs more proof-reading. Any suggestions, please contact me via:
 
 E-Mail: yuqi.lyle@outlook.com
+
 Wechat: oneforalone
+
 QQ: 1910706030
