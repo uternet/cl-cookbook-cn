@@ -2,9 +2,12 @@
 
 ---
 
-A Chinese Version of [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+A Chinese Version of [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/).
 
 ---
 
-This is the first translation, and yet not complete, still need some proof reading. Any suggestions, please [email me](mailto:yuqi.lyle@outlook.com).
+Needs more proof-reading. Any suggestions, please contact me via:
 
+E-Mail: yuqi.lyle@outlook.com
+Wechat: oneforalone
+QQ: 1910706030
