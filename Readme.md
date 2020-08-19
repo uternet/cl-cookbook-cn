@@ -10,6 +10,6 @@ Needs more proof-reading. Any suggestions, please contact me via:
 
 E-Mail: yuqi.lyle@outlook.com
 
-Wechat: oneforalone
+Wechat: oneforaloner
 
 QQ: 1910706030
