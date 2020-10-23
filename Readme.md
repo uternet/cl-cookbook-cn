@@ -1,15 +1,52 @@
-## The Common Lisp Cookbook 中文版
+# The Common Lisp Cookbook 中文版
 
 ---
 
-A Chinese Version of [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/).
+[The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/) 翻译项目，目前已完成初步翻译，需要进行校对。
 
 ---
 
-Needs more proof-reading. Any suggestions, please contact me via:
+## 简介
 
-E-Mail: yuqi.lyle@outlook.com
+翻译源文件同时托管在 Github 及 Gitee 上，网页版托管在 Github 上（Gitee 不支持 docsify 环境部署）。
 
-Wechat: oneforalone
+**源仓库**：
+  - Github：[https://github.com/oneforalone/cl-cookbook-cn](https://github.com/oneforalone/cl-cookbook-cn)
+  - Gitee: [https://gitee.com/clisp/cl-cookbook-cn](https://gitee.com/clisp/cl-cookbook-cn)
 
-QQ: 1910706030
+**网站地址**：[https://oneforalone.github.io/cl-cookbook-cn/](https://oneforalone.github.io/cl-cookbook-cn/#/)
+
+
+## 校对
+
+网站基于 [Node.js](https://nodejs.org/zh-cn/) 中的 [docsify](https://docsify.js.org/#/)：
+
+1. 安装 [Node.js](https://nodejs.org/)，在[官网](https://nodejs.org/zh-cn/download/)下载安装包进行安装，建议使用 LTS 版本；
+
+2. 安装 [docsify](https://docsify.js.org/#/)，具体安装步骤参见官方手册——[快速开始](https://docsify.js.org/#/zh-cn/quickstart):
+
+```bash
+npm i docsify-cli -g
+```
+
+3. 获取源代码：
+
+```bash
+git clone https://github.com/oneforalone/cl-cookbook-cn.git
+```
+
+4. 本地预览：
+
+```bash
+cd cl-cookbook-cn
+docsify serve docs
+```
+
+打开浏览器，可以进行实时预览。默认访问地址：[http://localhost:3000](http://localhost:3000)。
+
+
+## 联系方式
+
+邮箱：yuqi.lyle@outlook.com
+
+QQ：1910706030
