@@ -26,6 +26,7 @@
 2. 安装 [docsify](https://docsify.js.org/#/)，具体安装步骤参见官方手册——[快速开始](https://docsify.js.org/#/zh-cn/quickstart):
 
 ```bash
+npm config set registry http://registry.npm.taobao.org # speed up by changing npm repository to taobao
 npm i docsify-cli -g
 ```
 
