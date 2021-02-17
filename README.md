@@ -11,13 +11,15 @@
 翻译源文件同时托管在 Github 及 Gitee 上，网页版托管在 Github 上（Gitee 不支持 docsify 环境部署）。
 
 **源仓库**：
-  - Github：[https://github.com/oneforalone/cl-cookbook-cn](https://github.com/oneforalone/cl-cookbook-cn)
+  - Github：[https://github.com/clisp-cn/cl-cookbook-zh](https://github.com/clisp-cn/cl-cookbook-zh)
   - Gitee: [https://gitee.com/clisp/cl-cookbook-cn](https://gitee.com/clisp/cl-cookbook-cn)
 
-**网站地址**：[https://oneforalone.github.io/cl-cookbook-cn/](https://oneforalone.github.io/cl-cookbook-cn/#/)
+**网站地址**：
+  - [https://oneforalone.github.io/cl-cookbook-cn/](https://oneforalone.github.io/cl-cookbook-cn/#/)(初版)
+  - [https://www.lisp-cn.net/cl-cookbook-zh/](https://www.lisp-cn.net/cl-cookbook-zh/#/)
 
 
-## 校对
+## 本地预览
 
 网站基于 [Node.js](https://nodejs.org/zh-cn/) 中的 [docsify](https://docsify.js.org/#/)：
 
@@ -33,7 +35,7 @@ npm i docsify-cli -g
 3. 获取源代码：
 
 ```bash
-git clone https://github.com/oneforalone/cl-cookbook-cn.git
+git clone https://github.com/clisp-cn/cl-cookbook-zh.git
 ```
 
 4. 本地预览：
@@ -50,4 +52,4 @@ docsify serve docs
 
 邮箱：yuqi.lyle@outlook.com
 
-QQ：1910706030
+QQ群：793526753
